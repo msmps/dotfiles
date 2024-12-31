@@ -1,0 +1,6 @@
+window-padding-color = background
+theme = catppuccin-mocha
+font-family = "GeistMono Nerd Font"
+font-feature = -liga
+
+keybind = cmd+backspace=text:\x15
