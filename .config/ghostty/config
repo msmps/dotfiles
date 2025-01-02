@@ -1,9 +1,10 @@
-window-padding-color = background
 theme = catppuccin-mocha
 font-family = "GeistMono Nerd Font"
 font-feature = -liga
 
-keybind = cmd+backspace=text:\x15
+background-opacity = 0.95
 
 window-padding-balance = true
 adjust-cell-height = 15%
+
+keybind = cmd+backspace=text:\x15
