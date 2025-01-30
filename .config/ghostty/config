@@ -8,3 +8,5 @@ window-padding-balance = true
 adjust-cell-height = 15%
 
 keybind = cmd+backspace=text:\x15
+
+window-colorspace = "display-p3"

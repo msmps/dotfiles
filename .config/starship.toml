@@ -72,15 +72,8 @@ format = '[ $user ]($style)'
 [directory]
 style = "fg:mantle bg:peach"
 format = "[ $path ]($style)"
-truncation_length = 3
-truncation_symbol = "…/"
-
-[directory.substitutions]
-"Documents" = "󰈙 "
-"Downloads" = " "
-"Music" = "󰝚 "
-"Pictures" = " "
-"Developer" = "󰲋 "
+truncation_length = 2
+fish_style_pwd_dir_length = 1
 
 [git_branch]
 symbol = ""
