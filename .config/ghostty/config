@@ -1,12 +1,38 @@
-theme = catppuccin-mocha
-font-family = "GeistMono Nerd Font"
-font-feature = -liga
+theme = Catppuccin Macchiato
 
-background-opacity = 0.95
+# Fonts
+font-family = MonoLisa
+font-style = Medium
+font-style-italic = Medium Italic
+font-style-bold = Bold
+font-style-bold-italic = Bold Italic
+font-size = 16
 
+# Window
+window-width = 90
+window-height = 30
+window-colorspace = display-p3
+window-padding-color = background
 window-padding-balance = true
-adjust-cell-height = 15%
+window-padding-x = 5
+window-padding-y = 0,10
 
-keybind = cmd+backspace=text:\x15
+# Updates
+auto-update = download
+auto-update-channel = tip
 
-window-colorspace = "display-p3"
+# Keybinds
+keybind = shift+enter=text:\n
+
+# Styling
+macos-titlebar-style = tabs
+title = ghostty
+
+# MacOS
+macos-option-as-alt = true
+macos-titlebar-proxy-icon = hidden
+
+# Misc
+quit-after-last-window-closed = true
+shell-integration-features = true
+link-url = true
