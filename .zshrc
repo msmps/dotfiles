@@ -45,3 +45,5 @@ alias now="date +\"%Y%m%d%H%M%S\""
 
 # bun completions
 [ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"
+
+export PATH="$HOME/.local/bin:$PATH"
