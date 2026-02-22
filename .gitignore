@@ -1,4 +1,5 @@
 .agents/skills/*
 
+!.agents/skills/build-skill
 !.agents/skills/pilotty
 !.agents/skills/opentui
