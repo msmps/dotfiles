@@ -1,0 +1,4 @@
+.agents/skills/*
+
+!.agents/skills/pilotty
+!.agents/skills/opentui
